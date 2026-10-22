@@ -27,3 +27,14 @@
 - 数组中元素个数=sizeof(数组名) / sizeof(数据类型)
 - 二维数组行数 = sizeof(数组名) / sizeof（行名a[0]）
 - 二位数组列数 = sizeof(行名) / sizeof(数据类型)
+
+# c/pointer
+
+## 学习内容
+- 指针声明与指针解引用
+
+## 练习
+- pinter——basic.c
+
+## 易错点
+- a,*p,*(&a)等效
