@@ -1,6 +1,6 @@
 # Embedded Linux Learning
 
-28届嵌入式 Linux 软件开发学习记录。
+嵌入式 Linux 软件开发学习记录
 
 ## Contents
 
