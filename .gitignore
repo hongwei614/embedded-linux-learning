@@ -1,0 +1,29 @@
+# 编译产物
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Core dump
+core
+core.*
+
+# Debug
+*.dSYM/
+
+# VS Code
+.vscode/
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Temporary files
+*.swp
+*.tmp
+*~
+
+# Executables
+build/
+bin/
