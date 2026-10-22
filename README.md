@@ -37,4 +37,4 @@
 - pinter_basic.c
 
 ## 易错点
-- a,*p,*(&a)等效
+- 声明int a,int p = *a后，a,*p,*(&a)等效
