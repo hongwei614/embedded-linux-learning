@@ -34,7 +34,7 @@
 - 指针声明与指针解引用
 
 ## 练习
-- pinter——basic.c
+- pinter_basic.c
 
 ## 易错点
 - a,*p,*(&a)等效
