@@ -6,21 +6,21 @@
 
 - c
 
-# c/aaray
+## c/array
 
-## 学习内容
+### 学习内容
 - 一维整形数组
 - 二维整形数组
 - 一维字符数组
 - 二维字符数组
 - 字符串
 
-## 练习
+### 练习
 - matrix_transpose.c
 - two_dimension1.c
 - yanghui_triangle.c
 
-## 易错点
+### 易错点
 - 字符串以空字符/0结尾
 - 数组是连续储存的，数组名代表数组的首地址,二维数组优先行序存储.
 - sizeof(数组名)=整个数组占用的空间
@@ -28,21 +28,21 @@
 - 二维数组行数 = sizeof(数组名) / sizeof（行名a[0]）
 - 二位数组列数 = sizeof(行名) / sizeof(数据类型)
 
-# c/pointer
+## c/pointer
 
-## 学习内容
+### 学习内容
 - 指针声明与指针解引用
 - 指针的算数运算
 - 一维数组指针与二维数组指针
 
-## 练习
+### 练习
 - pointer_basic.c
 - pointer_arth.c
 - pointer_array.c
 - pointer_tdimarray.c
 - row_pointer
 
-## 易错点
+### 易错点
 - 声明int a,int /*p = &a后，a,\*p,\*(&a)等效
 - x\[i\],\*(px + i),\*(x + i),px[i]具有相同的作用，访问数组第i + 1个元素
 - 数组名本身也是一个地址量，是地址常量，不能修改；指针变量能够修改
