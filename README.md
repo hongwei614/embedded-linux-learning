@@ -82,3 +82,31 @@
   5.NULL 表示失败
   6.指向静态数组的指针
 
+## c/compound
+
+### 学习内容
+- struct结构体
+- union联合体
+- enum枚举类型
+
+### 练习
+- struct_declare.c
+- union_declare.c
+- enum_declare.c
+
+### 易错点
+- struct类型按顺序存入内存，存在内存对齐，4或8的倍数；
+- struct中的成员顺序会影响结构体大小
+
+## c/modifier
+
+### 学习内容
+- static
+- extern
+- register
+
+### 练习
+- static.c
+
+### 易错点
+- extern声明变量或函数定义在别处，用于跨文件访问，但一般不使用
