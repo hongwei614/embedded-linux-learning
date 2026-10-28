@@ -104,7 +104,15 @@
 - static
 - extern
 - register
+- const
+- volatile
 
 ### 练习
 - static.c
+- const.c
+- volatile_mthread.c
+
+### 易错点
+- `const`与宏`#define`的区别
+- `volatile`的使用
 
