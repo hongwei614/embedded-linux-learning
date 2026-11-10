@@ -5,6 +5,7 @@
 ## Contents
 
 - c
+- Makefile
 
 ## c/array
 
@@ -116,3 +117,16 @@
 - `const`与宏`#define`的区别
 - `volatile`的使用
 
+## Makefile
+
+### 学习内容
+- Makefile的组成部分
+- 变量
+- 伪目标
+
+### 练习
+- Makefile
+
+### 易错点
+- 头文件依赖
+- 名称声明
