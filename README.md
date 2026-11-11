@@ -6,6 +6,7 @@
 
 - c
 - Makefile
+- linux-app-programming
 
 ## c/array
 
@@ -130,3 +131,14 @@
 ### 易错点
 - 头文件依赖
 - 名称声明
+  
+## linux-app-programming/file-io
+
+### 学习内容
+- 标准I/O库
+
+### 练习
+- fopen_test.c
+- ...
+
+### 易错点
