@@ -40,6 +40,13 @@ fscanf_test:fscanf_test.c
 	-./$@
 	-rm ./$@
 
+system_call_test:system_call_test.c
+	-$(CC) -o $@ $^
+	-./$@
+	-rm ./$@
+
+
+
 
 
 
