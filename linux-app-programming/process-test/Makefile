@@ -23,6 +23,12 @@ fork_execve_test:fork_execve_test.c
 	-./$@
 	-rm ./$@
 
+waitpid_test:waitpid_test.c
+	-$(CC) -o $@ $^
+	-./$@
+	-rm ./$@
+
+
 
 
 

@@ -142,3 +142,15 @@
 - ...
 
 ### 易错点
+
+## linux-app-programming/process-test
+
+### 学习内容
+- pid
+- fork
+- execve
+- waitpid
+
+### 练习
+- fork_test.c
+- ...
