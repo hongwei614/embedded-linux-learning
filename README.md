@@ -154,3 +154,17 @@
 ### 练习
 - fork_test.c
 - ...
+
+## linux-app-programming/inter-process-communication
+
+### 学习内容
+- 匿名管道
+- 有名管道
+- 共享内存
+- 消息队列
+- 信号
+
+### 练习
+- unamed_pipe_test.c
+- ...
+
